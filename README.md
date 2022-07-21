@@ -1,5 +1,6 @@
-# The framework for wind turbine failure prediction
+# AI enabled Wind turbine failure prediction
 
+NOTE: Download the zip file and extract the folders to access the files.
 
 Machine learning applied to wind turbines incipient fault detection. This is a project staterd in my Master's degree and it is core. [The full dissertation is available here](Dissertation.pdf). 
 
