@@ -1,4 +1,4 @@
-# AI enabled Wind turbine failure prediction
+# AI Enabled Wind Turbine Failure Prediction
 
 NOTE: Download the zip file and extract the folders to access the files.
 
